@@ -8,8 +8,17 @@
 Save the Bees é um jogo em que o jogador controla uma abelha guerreira enfrentando hordas de insetos inimigos em terceira pessoa. A cada rodada, é possível melhorar armas, habilidades e evoluir a colmeia, aumentando suas chances de sobrevivência. Com progressão estratégica, ação intensa e uma pegada **Rogue Lite**, o objetivo é sobreviver o máximo possível contra enxames cada vez mais fortes.
 
 
-## 🚧 Estado Atual do Projeto (Protótipo)
+## 🗺️ Blueprint Personagens
+### Blueprint Personagens
+BP_ThirdPersonCharacter_EventGraph: https://blueprintue.com/blueprint/efv61caa/
+BP_ThirdPersonCharacter_Fire: https://blueprintue.com/blueprint/h_feolyg/
 
+### Blueprint Personagens
+BP_IAEnemy_EventGraph: https://blueprintue.com/blueprint/rm90074z/
+BP_IAEnemy_Fire: https://blueprintue.com/blueprint/wvlxhxsd/
+
+
+## 🚧 Estado Atual do Projeto (Protótipo)
 O projeto Save The Bees está atualmente em fase de protótipo alpha. As funcionalidades atualmente desenvolvidas incluem:
 
 ### Mecânicas do Player
@@ -31,7 +40,6 @@ O foco atual do desenvolvimento está em:
 
 
 ## ⌨️ Controles
-
 ### Teclado + Mouse
 | Ação | Tecla |
 |------|-------|
@@ -42,7 +50,7 @@ O foco atual do desenvolvimento está em:
 
 
 ## 🗂️ Conteúdo do Repositório
-
 O repositório contém um arquivo `.zip` com o projeto completo da Unreal Engine 5. Dentro do `.zip`, na pasta "Executável Windows", há o arquivo executável do jogo.
+
 
 

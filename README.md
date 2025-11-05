@@ -10,12 +10,12 @@ Save the Bees é um jogo em que o jogador controla uma abelha guerreira enfrenta
 
 ## 🗺️ Blueprint Personagens
 ### Blueprint Personagens
-BP_ThirdPersonCharacter_EventGraph: https://blueprintue.com/blueprint/efv61caa/
-BP_ThirdPersonCharacter_Fire: https://blueprintue.com/blueprint/h_feolyg/
+BP_ThirdPersonCharacter_EventGraph: https://blueprintue.com/blueprint/efv61caa/  
+BP_ThirdPersonCharacter_Fire: https://blueprintue.com/blueprint/h_feolyg/  
 
 ### Blueprint Personagens
-BP_IAEnemy_EventGraph: https://blueprintue.com/blueprint/rm90074z/
-BP_IAEnemy_Fire: https://blueprintue.com/blueprint/wvlxhxsd/
+BP_IAEnemy_EventGraph: https://blueprintue.com/blueprint/rm90074z/  
+BP_IAEnemy_Fire: https://blueprintue.com/blueprint/wvlxhxsd/  
 
 
 ## 🚧 Estado Atual do Projeto (Protótipo)
@@ -51,6 +51,7 @@ O foco atual do desenvolvimento está em:
 
 ## 🗂️ Conteúdo do Repositório
 O repositório contém um arquivo `.zip` com o projeto completo da Unreal Engine 5. Dentro do `.zip`, na pasta "Executável Windows", há o arquivo executável do jogo.
+
 
 
 

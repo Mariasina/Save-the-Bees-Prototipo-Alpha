@@ -1,6 +1,6 @@
 # 🐝 Save The Bees
 **Plataforma:** Unreal Engine 5  
-**Formato:** Desktop
+**Formato:** Desktop  
 **Gênero:** Rogue Lite • Third-Person Shooter • Hordas • Ação  
 
 
@@ -44,4 +44,5 @@ O foco atual do desenvolvimento está em:
 ## 🗂️ Conteúdo do Repositório
 
 O repositório contém um arquivo `.zip` com o projeto completo da Unreal Engine 5. Dentro do `.zip`, na pasta "Executável Windows", há o arquivo executável do jogo.
+
 
